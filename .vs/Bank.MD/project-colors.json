@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "068f5b07-b690-454e-8284-2759aad32aba": {
+      "ProjectGuid": "068f5b07-b690-454e-8284-2759aad32aba",
+      "DisplayName": "Bank.MD",
+      "ColorIndex": 0
+    },
+    "15407c5b-451b-4a4c-9f0e-1d378911eba1": {
+      "ProjectGuid": "15407c5b-451b-4a4c-9f0e-1d378911eba1",
+      "DisplayName": "Bank.MD",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
